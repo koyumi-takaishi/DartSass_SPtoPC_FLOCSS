@@ -1,4 +1,4 @@
-# 【DartSass】CodeUps課題用Gulp環境（スマホファースト）
+# DartSass_SPtoPC_FLOCCS
 
 ## 環境
 - Gulpが使える環境が前提（4系）
@@ -20,7 +20,3 @@
 - スマホファーストが前提の仕様です。
 - rem記述を前提としています。
 - ルートフォントをvwで設定していることからPCサイズのレイアウトをタブレットで表示させることが出来ます（remで書いた場合のみ）。
-# DartSass_SPtoPC_FLOCCS
-# DartSass_SPtoPC_FLOCCS
-# DartSass_SPtoPC_FLOCCS
-# DartSass_SPtoPC_FLOCSS
